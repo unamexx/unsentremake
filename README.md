@@ -9,6 +9,6 @@
 
 ```diff
 - 6th July 2022: installing pre-requisites;
-                 online repository preparation;
-                 collecting materials, resources, and references;
+-                online repository preparation;
+-                collecting materials, resources, and references;
 ```
