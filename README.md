@@ -8,7 +8,11 @@
 ### Project Progress
 
 ```diff
-- 6th July 2022: installing pre-requisites;
--                online repository preparation;
--                collecting materials, resources, and references;
++ 7th July 2022:
+    1. collecting materials, resources, and references;
+
+# 6th July 2022:
+    1. installing pre-requisites;
+    2. online repository preparation;
+    3. collecting materials, resources, and references;
 ```
